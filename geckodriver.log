@@ -1,0 +1,62 @@
+1608022732002	geckodriver	INFO	Listening on 127.0.0.1:54694
+1608022735079	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WATERA~1\\AppData\\Local\\Temp\\rust_mozprofileo9uE7z"
+1608022736626	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1608022737436	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1608022737437	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1608022737438	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1608022737438	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1608022740817	Marionette	INFO	Listening on port 54711
+1608022741325	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 694: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "UpdateManager: writing update xml data"
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 4605: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Phase "profile-before-change" is finished, it is too late to register completion condition "UpdateManager: writing update xml data"" {file: "resource://gre/modules/AsyncShutdown.jsm" line: 694}]'[JavaScript Error: "Phase "profile-before-change" is finished, it is too late to register completion condition "UpdateManager: writing update xml data"" {file: "resource://gre/modules/AsyncShutdown.jsm" line: 694}]' when calling method: [nsIUpdateManager::saveUpdates]
+1608022744054	Marionette	INFO	Stopped listening on port 54711
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[2020-12-15T08:59:05Z ERROR bitsdownload::bits_interface::monitor] Unable to dispatch to thread: NS_ERROR_ILLEGAL_DURING_SHUTDOWN
+1608022749860	geckodriver	INFO	Listening on 127.0.0.1:54763
+1608022752942	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WATERA~1\\AppData\\Local\\Temp\\rust_mozprofileFzE21Y"
+1608022753769	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1608022754499	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1608022754499	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1608022754500	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1608022754500	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1608022756565	Marionette	INFO	Listening on port 54772
+1608022756594	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608023584510	Marionette	INFO	Stopped listening on port 54772
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\\Local\\Temp\\rust_mozprofileAN2sfm"
+1608022878091	geckodriver	INFO	Listening on 127.0.0.1:54937
+1608022881218	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WATERA~1\\AppData\\Local\\Temp\\rust_mozprofile0tCE6S"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1608022884050	Marionette	INFO	Listening on port 54946
+1608022884390	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608023584493	Marionette	INFO	Stopped listening on port 54946
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1608023609317	geckodriver	INFO	Listening on 127.0.0.1:55406
+1608023612357	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\WATERA~1\\AppData\\Local\\Temp\\rust_mozprofile8Zq6ts"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1608023616495	Marionette	INFO	Listening on port 55423
+1608023616545	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608024027566	Marionette	INFO	Stopped listening on port 55423
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
